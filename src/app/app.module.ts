@@ -19,7 +19,7 @@ import { RouterModule,Routes } from '@angular/router';
     BrowserModule,
     AppRoutingModule,
  RouterModule.forRoot([
-  {path:"",component:HeaderComponent},
+  {path:'',component:HeaderComponent},
    {path:"content",component:ContentComponent},
    {path:"header",component:HeaderComponent},
    {path:"footer",component:FooterComponent},
