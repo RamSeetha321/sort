@@ -1,0 +1,41 @@
+
+   .container {
+    border: 1px solid black;
+       margin-top: auto;
+       margin-bottom: auto;
+       margin-right: 10px;
+       margin-left: 10px;
+       width: auto;
+       height: auto;
+       background-color: #D3D3D3;	
+   }
+   
+   .btn {
+       border: none;
+       outline: none;
+       padding: 10px 16px;
+       background-color: #FFD700;
+       cursor: pointer;
+       font-size: 18px;
+   }
+   
+   
+   .panel-heading {
+       text-align: center;
+       background-color: #FFF;
+       
+   }
+   .order {
+       text-align: center;
+   }
+   .edit {
+       text-align: center;
+   }
+   
+   .care {
+       text-align: center;
+       
+   }
+   a{
+    text-decoration: none !important;
+}
